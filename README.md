@@ -1,10 +1,13 @@
 # Assignment 1 Django project SE-2004 Dias Karibaev
 
 ## Installation
+```bash
 $ pip install django
 $ pip install psycopg2
 $ pip install mysql
 $pip install mysqlclient
+```
+
 
 ## Usage
 from django.shortcuts import render, redirect
@@ -19,10 +22,11 @@ from . import views
 
 ## Examples
 
-![1](https://user-images.githubusercontent.com/51242971/150444690-2f743f66-aec3-42cf-a241-42b36b5a712f.png)
-![2](https://user-images.githubusercontent.com/51242971/150444696-2fe8fe25-cc4a-43d5-915a-472dc0ae4355.png)
-![3](https://user-images.githubusercontent.com/51242971/150444701-afa8fe9a-a9b7-4f9b-98b2-a59507d801af.png)
 
+![1](https://user-images.githubusercontent.com/51242971/150445384-b57e132b-ee2f-47d0-b36c-4160bb9fce3a.jpeg)
 
+![2](https://user-images.githubusercontent.com/51242971/150445391-6d92821a-73c0-49b4-80c7-a632cc0524be.jpeg)
+
+![3](https://user-images.githubusercontent.com/51242971/150445400-6d84c979-01c2-41cd-a999-92815613ffb2.jpeg)
 
 
