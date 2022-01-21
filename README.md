@@ -10,6 +10,7 @@ $pip install mysqlclient
 
 
 ## Usage
+```bash
 from django.shortcuts import render, redirect
 from django.http import HttpResponse, HttpRequest
 from .models import Task
@@ -18,7 +19,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.forms import UserCreationForm
 from django.urls import path
 from . import views
-
+```
 
 ## Examples
 
